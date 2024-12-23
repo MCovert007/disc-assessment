@@ -1,0 +1,327 @@
+{
+    "D": {
+      "Summary": "Highly driven and strong-willed, individuals with a Dominance profile tend to be assertive, competitive, and focused on results.",
+      "Potential_Concerns": "May come across as aggressive or overly ambitious, potentially leading to conflict or strained relationships.",
+      "Statistical_Information": "Approximately 10-15% of the population primarily exhibits the Dominance trait.",
+      "Optimization_Strategies": "Focus on collaboration and empathy to improve interpersonal relationships and team dynamics."
+    },
+    "I": {
+      "Summary": "Sociable and persuasive, individuals with an Influence profile are usually enthusiastic, optimistic, and skilled at communication.",
+      "Potential_Concerns": "Can be perceived as superficial or unfocused; may struggle with over-promising and under-delivering.",
+      "Statistical_Information": "Roughly 20-30% of the population predominantly displays the Influence trait.",
+      "Optimization_Strategies": "Enhance organizational skills and follow-through to match their enthusiasm with tangible results."
+    },
+    "S": {
+      "Summary": "Calm and dependable, individuals with a Steadiness profile excel in consistency, teamwork, and supporting others.",
+      "Potential_Concerns": "May avoid change and confrontation, which can lead to stagnation or lack of assertiveness.",
+      "Statistical_Information": "About 30-35% of the population primarily exhibits the Steadiness trait.",
+      "Optimization_Strategies": "Develop flexibility and assertiveness to embrace change and express opinions openly."
+    },
+    "C": {
+      "Summary": "Precise and analytical, individuals with a Compliance profile are detail-oriented, organized, and adhere strictly to rules and procedures.",
+      "Potential_Concerns": "Can be overly critical and inflexible, which might hinder creativity and adaptability.",
+      "Statistical_Information": "Approximately 25-30% of the population predominantly displays the Compliance trait.",
+      "Optimization_Strategies": "Focus on big-picture thinking and flexibility to enhance decision-making and adaptability."
+    },
+    "DI": {
+      "Summary": "Energetic and bold, individuals with a DI profile are both dominant and influential, often taking charge in social settings and driving initiatives.",
+      "Potential_Concerns": "May appear overly assertive or impulsive, risking important details or relationships.",
+      "Optimization_Strategies": "Balance fast-paced leadership with attentive listening and detail management."
+    },
+    "DS": {
+      "Summary": "Amiable and efficient, DS profiles combine dominance with steadiness, valuing both results and cooperation.",
+      "Potential_Concerns": "Struggle between a need for results and a desire to maintain harmony could lead to indecision.",
+      "Optimization_Strategies": "Develop clear priorities to manage conflicts between task focus and people focus."
+    },
+    "DC": {
+      "Summary": "Assertive and meticulous, DC profiles are both dominant and compliant, excelling in environments that demand both authority and precision.",
+      "Potential_Concerns": "Can be overly critical and demanding, sometimes imposing unnecessarily high standards.",
+      "Optimization_Strategies": "Foster an environment of open communication and flexibility to balance their high expectations."
+    },
+    "ID": {
+      "Summary": "Charismatic and ambitious, ID profiles flip the DI traits, leading with influence but backed by dominance, making them compelling leaders.",
+      "Potential_Concerns": "Risk of overcommitment or overlooking details in pursuit of vision.",
+      "Optimization_Strategies": "Emphasize realistic goal-setting and detail-oriented planning."
+    },
+    "IS": {
+      "Summary": "Warm and persuasive, IS profiles blend influence with steadiness, creating a friendly and supportive atmosphere.",
+      "Potential_Concerns": "May struggle with confrontation and assertiveness, leading to passive-aggressive behavior.",
+      "Optimization_Strategies": "Cultivate direct communication skills and decision-making confidence."
+    },
+    "IC": {
+      "Summary": "Enthusiastic and orderly, IC profiles combine the warmth of Influence with the meticulousness of Compliance.",
+      "Potential_Concerns": "Might suffer from stress when balancing people-pleasing with strict adherence to rules.",
+      "Optimization_Strategies": "Prioritize tasks and set boundaries to manage both social and procedural demands effectively."
+    },
+    "SD": {
+      "Summary": "Dependable and determined, SD profiles mix steadiness with dominance, aiming for consistency and high performance.",
+      "Potential_Concerns": "May avoid necessary risks or changes, leading to stagnation.",
+      "Optimization_Strategies": "Encourage embracing new challenges and fostering flexibility in leadership styles."
+    },
+    "SI": {
+      "Summary": "Gentle and persuasive, SI profiles are social and supportive, excelling in roles that require patience and empathy.",
+      "Potential_Concerns": "Can be overly accommodating, sometimes at the expense of their own needs.",
+      "Optimization_Strategies": "Strengthen assertiveness and set clear personal and professional boundaries."
+    },
+    "SC": {
+      "Summary": "Calm and analytical, SC profiles blend steadiness with compliance, thriving in structured, supportive environments.",
+      "Potential_Concerns": "May resist change and struggle with spontaneity, which can limit growth.",
+      "Optimization_Strategies": "Develop adaptability skills and embrace occasional calculated risks."
+    },
+    "CD": {
+      "Summary": "Focused and challenging, CD profiles are both compliant and dominant, often excelling in technical or strategic roles that require precision and authority.",
+      "Potential_Concerns": "Can be inflexible and overly critical, which may alienate colleagues.",
+      "Optimization_Strategies": "Enhance interpersonal skills and foster a more inclusive decision-making process."
+    },
+    "CI": {
+      "Summary": "Detail-oriented and charismatic, CI profiles blend compliance with influence, making them effective at persuading others while maintaining a focus on accuracy.",
+      "Potential_Concerns": "May focus too much on details at the expense of the bigger picture.",
+      "Optimization_Strategies": "Balance detail orientation with goal-oriented progress."
+    },
+    "CS": {
+      "Summary": "Methodical and supportive, CS profiles combine compliance with steadiness, creating a reliable and precise worker, excellent in supportive roles.",
+      "Potential_Concerns": "Tendency towards overly conservative approaches and resistance to change.",
+      "Optimization_Strategies": "Encourage development of change management skills and innovation."
+    },
+    "CDI": {
+      "Summary": "Analytical, assertive, and persuasive, CDI profiles combine compliance, dominance, and influence, excelling in roles requiring strategic leadership with attention to detail.",
+      "Potential_Concerns": "May struggle with overly controlling tendencies and can overwhelm others with high expectations.",
+      "Optimization_Strategies": "Encourage flexibility and foster teamwork to balance strong leadership with collaborative efforts."
+    },
+    "CDS": {
+      "Summary": "Detail-oriented, dependable, and results-driven, CDS profiles blend compliance, dominance, and steadiness, suitable for roles that require meticulous planning and execution.",
+      "Potential_Concerns": "Risk of inflexibility and reluctance to embrace new methods or ideas.",
+      "Optimization_Strategies": "Promote innovation and adaptability to ensure continual growth and effectiveness."
+    },
+    "CID": {
+      "Summary": "Persuasive, meticulous, and commanding, CID profiles merge compliance, influence, and dominance, often seen in proactive, detail-focused leaders.",
+      "Potential_Concerns": "Can be overly critical and aggressive, potentially alienating team members.",
+      "Optimization_Strategies": "Balance assertiveness with empathy and strengthen interpersonal relationships."
+    },
+    "CIS": {
+      "Summary": "Organized, engaging, and calm, CIS profiles combine compliance, influence, and steadiness, thriving in structured, people-oriented roles.",
+      "Potential_Concerns": "May struggle with decisiveness and assertiveness, leading to passive behavior.",
+      "Optimization_Strategies": "Develop leadership and decision-making skills to more effectively guide teams."
+    },
+    "CSD": {
+      "Summary": "Steady, detail-oriented, and driven, CSD profiles blend compliance, steadiness, and dominance, excelling in environments that demand precision and control.",
+      "Potential_Concerns": "Tendency towards rigidity and resistance to change can limit flexibility.",
+      "Optimization_Strategies": "Encourage open-mindedness and the exploration of new strategies."
+    },
+    "CSI": {
+      "Summary": "Supportive, meticulous, and persuasive, CSI profiles combine compliance, steadiness, and influence, ideal for roles requiring detailed oversight and team coordination.",
+      "Potential_Concerns": "May not handle conflict well, often avoiding direct confrontations.",
+      "Optimization_Strategies": "Enhance conflict resolution skills and assertiveness training."
+    },
+    "DCI": {
+      "Summary": "Strategic, analytical, and influential, DCI profiles merge dominance, compliance, and influence, making them powerful leaders who are both detail-oriented and persuasive.",
+      "Potential_Concerns": "Can be domineering and overly critical, potentially overwhelming their peers.",
+      "Optimization_Strategies": "Focus on inclusive leadership and emotional intelligence to improve team dynamics."
+    },
+    "DCS": {
+      "Summary": "Dominant, compliant, and steady, DCS profiles are results-driven, meticulous, and reliable, ideal for structured leadership roles requiring a firm hand.",
+      "Potential_Concerns": "May be seen as too authoritative and resistant to unconventional methods.",
+      "Optimization_Strategies": "Develop flexibility and openness to different perspectives and approaches."
+    },
+    "DIC": {
+      "Summary": "Bold, charismatic, and precise, DIC profiles combine dominance, influence, and compliance, excelling in roles that demand both creativity and accuracy.",
+      "Potential_Concerns": "Risk of being perceived as overly assertive and inflexible.",
+      "Optimization_Strategies": "Enhance collaborative skills and learn to delegate effectively."
+    },
+    "DIS": {
+      "Summary": "Dynamic, influential, and stable, DIS profiles blend dominance, influence, and steadiness, suitable for leadership roles that require charisma and a steady hand.",
+      "Potential_Concerns": "May struggle with maintaining consistency and focusing on details.",
+      "Optimization_Strategies": "Focus on systematic approaches and detail management."
+    },
+    "DSC": {
+      "Summary": "Commanding, careful, and consistent, DSC profiles merge dominance, steadiness, and compliance, making them effective managers who ensure rules are followed while driving results.",
+      "Potential_Concerns": "Can be overly conservative and controlling, which may stifle innovation.",
+      "Optimization_Strategies": "Promote creative problem solving and flexibility in decision making."
+    },
+    "DSI": {
+      "Summary": "Assertive, sociable, and dependable, DSI profiles combine dominance, steadiness, and influence, excelling in managing and motivating teams.",
+      "Potential_Concerns": "May overlook details in their pursuit of team harmony and results.",
+      "Optimization_Strategies": "Balance team leadership with attention to procedural details."
+    },
+    "ICD": {
+      "Summary": "Charismatic, detail-oriented, and assertive, ICD profiles blend influence, compliance, and dominance, often leading through both charm and strict standards.",
+      "Potential_Concerns": "Risk of clashing priorities between maintaining popularity and enforcing rules.",
+      "Optimization_Strategies": "Integrate empathetic leadership with effective enforcement of standards."
+    },
+    "ICS": {
+      "Summary": "Warm, orderly, and reliable, ICS profiles combine influence, compliance, and steadiness, perfect for roles that require engaging team management with a focus on compliance and consistency.",
+      "Potential_Concerns": "Might avoid necessary confrontations and struggle with rapid changes.",
+      "Optimization_Strategies": "Develop resilience and adaptability while maintaining a supportive team environment."
+    },
+    "IDC": {
+      "Summary": "Dynamic, persuasive, and meticulous, IDC profiles merge influence, dominance, and compliance, excelling in environments that require both innovation and precision.",
+      "Potential_Concerns": "Can be overly ambitious and demanding, sometimes at the expense of team cohesion.",
+      "Optimization_Strategies": "Foster a balanced approach between pushing for innovation and maintaining team unity."
+    },
+    "IDS": {
+      "Summary": "Influential, dominant, and steady, IDS profiles blend influence, dominance, and steadiness, making them effective leaders who motivate their teams while driving towards goals.",
+      "Potential_Concerns": "May struggle with consistency and focus, often shifting priorities.",
+      "Optimization_Strategies": "Strengthen organizational skills and develop a more consistent leadership style."
+    },
+    "ISC": {
+      "Summary": "Persuasive, supportive, and precise, ISC profiles combine influence, steadiness, and compliance, ideal for roles that demand both diplomatic communication and strict adherence to procedures.",
+      "Potential_Concerns": "May struggle with assertiveness and decisiveness, potentially leading to delays in action.",
+      "Optimization_Strategies": "Enhance leadership capabilities and decision-making processes."
+    },
+    "ISD": {
+      "Summary": "Charming, dependable, and focused, ISD profiles blend influence, steadiness, and dominance, excelling in leadership roles that require both people skills and a results-oriented approach.",
+      "Potential_Concerns": "Risk of complacency or avoiding tough decisions to maintain harmony.",
+      "Optimization_Strategies": "Encourage risk-taking and strengthen conflict management skills."
+    },
+    "SCD": {
+      "Summary": "Systematic, calm, and assertive, SCD profiles combine steadiness, compliance, and dominance, suitable for structured leadership roles that require a methodical approach.",
+      "Potential_Concerns": "May be perceived as too rigid and slow to react to new challenges.",
+      "Optimization_Strategies": "Promote dynamic leadership and responsiveness to change."
+    },
+    "SCI": {
+      "Summary": "Steady, compliant, and engaging, SCI profiles blend steadiness, compliance, and influence, thriving in roles that require a consistent and friendly approach to rule enforcement.",
+      "Potential_Concerns": "Can be overly accommodating, sometimes at the expense of more assertive leadership.",
+      "Optimization_Strategies": "Develop assertiveness and encourage more proactive leadership styles."
+    },
+    "SDC": {
+      "Summary": "Reliable, meticulous, and determined, SDC profiles combine steadiness, dominance, and compliance, excelling in roles that demand thoroughness and persistence.",
+      "Potential_Concerns": "Risk of becoming too focused on procedures and losing sight of broader goals.",
+      "Optimization_Strategies": "Encourage strategic thinking and the exploration of new ideas."
+    },
+    "SDI": {
+      "Summary": "Stable, dynamic, and influential, SDI profiles merge steadiness, dominance, and influence, making them well-suited to leadership roles that balance consistency with motivational skills.",
+      "Potential_Concerns": "May not adapt quickly to unforeseen changes, preferring to stick to known paths.",
+      "Optimization_Strategies": "Develop flexibility and adaptability to effectively respond to changing circumstances."
+    },
+    "SIC": {
+      "Summary": "Supportive, detailed, and engaging, SIC profiles combine steadiness, influence, and compliance, ideal for roles that require managing detailed tasks while maintaining positive team dynamics.",
+      "Potential_Concerns": "Might struggle with decisiveness and rapid change.",
+      "Optimization_Strategies": "Strengthen leadership skills and embrace more dynamic decision-making processes."
+    },
+    "SID": {
+      "Summary": "Steady, influential, and driven, SID profiles blend steadiness, influence, and dominance, excelling in roles that require stable yet persuasive leadership.",
+      "Potential_Concerns": "Risk of being overly cautious and not taking necessary risks to drive innovation.",
+      "Optimization_Strategies": "Encourage risk-taking and foster an innovative mindset to balance stability with growth."
+    },
+    "CDIS": {
+      "Summary": "Combines meticulous attention to detail, assertiveness, social influence, and a calm demeanor, making them versatile and adaptable in various roles.",
+      "Potential_Concerns": "Might lack a clear dominant trait, leading to inconsistent behavior or decision-making.",
+      "Optimization_Strategies": "Focus on leveraging the strength of each trait according to situational needs and developing a consistent personal leadership style."
+    },
+    "CDSI": {
+      "Summary": "Balances compliance, dominance, steadiness, and influence, making them highly adaptable and capable of managing both people and processes effectively.",
+      "Potential_Concerns": "Risk of over-adaptation to situations, potentially diluting their own strong points or personal style.",
+      "Optimization_Strategies": "Identify and cultivate core strengths, applying them strategically to enhance personal and professional growth."
+    },
+    "CIDS": {
+      "Summary": "Blends analytical depth with assertiveness, social skills, and a steady demeanor, suited for roles requiring comprehensive oversight and interpersonal engagement.",
+      "Potential_Concerns": "May struggle with prioritizing which trait to leverage in complex situations, leading to delayed actions or decisions.",
+      "Optimization_Strategies": "Work on defining clear goals and decision-making criteria to use traits effectively under different circumstances."
+    },
+    "CISD": {
+      "Summary": "Combines compliance, influence, steadiness, and a dose of dominance, allowing them to handle both people-oriented and task-oriented roles effectively.",
+      "Potential_Concerns": "Might face challenges in fully committing to a single approach when diverse demands conflict.",
+      "Optimization_Strategies": "Enhance self-awareness of the most effective trait combinations in varying contexts to maximize effectiveness."
+    },
+    "CSDI": {
+      "Summary": "With a foundation in steadiness and compliance supplemented by dominance and influence, can effectively manage and lead in stable yet dynamic environments.",
+      "Potential_Concerns": "Potential for internal conflict between a need for stability and a desire for change or leadership.",
+      "Optimization_Strategies": "Balance stability with innovation and leadership with team support to foster both growth and harmony."
+    },
+    "CSID": {
+      "Summary": "Versatile and dependable, skilled in adapting their approach to meet both the technical and interpersonal demands of their roles.",
+      "Potential_Concerns": "Risk of spreading themselves too thin across different approaches, leading to inefficiency.",
+      "Optimization_Strategies": "Prioritize and refine the application of traits to specific tasks to enhance both personal efficiency and team productivity."
+    },
+    "DCIS": {
+      "Summary": "Exhibits strong leadership qualities complemented by meticulous attention to detail and a charismatic approach, effective in high-stakes environments.",
+      "Potential_Concerns": "May experience stress from trying to balance aggressive goals with personal interactions and strict compliance.",
+      "Optimization_Strategies": "Focus on integrating leadership with interpersonal sensitivity and regulatory awareness."
+    },
+    "DCSI": {
+      "Summary": "Excels in structured environments where leadership is required alongside a need for interpersonal harmony and procedural accuracy.",
+      "Potential_Concerns": "Challenges might arise in situations requiring flexibility beyond their structured approach.",
+      "Optimization_Strategies": "Develop flexibility and a more adaptable leadership style to effectively respond to changing circumstances."
+    },
+    "DICS": {
+      "Summary": "Combines dominance, influence, compliance, and steadiness to form a leadership style that is both assertive and empathetic.",
+      "Potential_Concerns": "May struggle to maintain a balance between assertiveness and approachability, leading to potential conflicts.",
+      "Optimization_Strategies": "Focus on developing emotional intelligence and a flexible management style that adapts to the needs of the team."
+    },
+    "DISC": {
+      "Summary": "True chameleons, capable of adapting fully to almost any environment by leveraging dominance, influence, steadiness, and compliance as needed.",
+      "Potential_Concerns": "May lack a signature approach, which can complicate the development of a distinct leadership or personal style.",
+      "Optimization_Strategies": "Cultivate a unique blend of traits that aligns with personal values and professional demands."
+    },
+    "DSCI": {
+      "Summary": "Masters of structure and influence, combining a systematic approach with the ability to motivate and lead others effectively.",
+      "Potential_Concerns": "Risk of becoming overly rigid or unable to adapt to less structured environments.",
+      "Optimization_Strategies": "Enhance adaptability and learn to thrive in varying degrees of organizational structure."
+    },
+    "DSIC": {
+      "Summary": "Balances a strong command with a steady approach, making them reliable leaders who can both drive and maintain team harmony.",
+      "Potential_Concerns": "May struggle with rapid changes or in highly dynamic environments due to a preference for stability.",
+      "Optimization_Strategies": "Develop strategies to remain flexible and responsive in fast-paced or unpredictable situations."
+    },
+    "ICDS": {
+      "Summary": "Charismatic and meticulous, capable of leading with a blend of enthusiasm and precise attention to detail.",
+      "Potential_Concerns": "May find it challenging to balance the need for control with their natural charisma, potentially leading to conflicts.",
+      "Optimization_Strategies": "Balance their approachable nature with their need for order and structure to effectively lead diverse teams."
+    },
+    "ICSD": {
+      "Summary": "Blends influence and compliance with a strong sense of steadiness, making them excellent at managing both people and processes in a harmonious manner.",
+      "Potential_Concerns": "Risk of being overly accommodating or failing to assert their own ideas in leadership roles.",
+      "Optimization_Strategies": "Focus on developing assertiveness and leadership skills to more effectively guide teams towards success."
+    },
+    "IDCS": {
+      "Summary": "Dynamic leaders who combine influence, dominance, and compliance to manage and direct teams with a balance of charisma and rule adherence.",
+      "Potential_Concerns": "May overemphasize control or personal charm at the expense of genuine team engagement.",
+      "Optimization_Strategies": "Enhance genuine team collaboration and ensure that leadership methods are as inclusive as they are effective."
+    },
+    "IDSC": {
+      "Summary": "Influential and dominant, with a strong adherence to compliance and a steady approach, suitable for leadership that demands both vision and consistency.",
+      "Potential_Concerns": "Struggles may arise when balancing dynamic leadership with the need for predictable processes.",
+      "Optimization_Strategies": "Cultivate a balanced approach that values both innovation and the maintenance of standard procedures."
+    },
+    "ISCD": {
+      "Summary": "Highly sociable and dependable, excels in environments that require a mix of charisma and detailed orientation.",
+      "Potential_Concerns": "May struggle to prioritize tasks effectively, especially in high-pressure situations.",
+      "Optimization_Strategies": "Improve time management and priority setting to enhance overall effectiveness in leadership and project execution."
+    },
+    "ISDC": {
+      "Summary": "Blends influence and steadiness with a strong sense of compliance, making them effective in roles that require diplomatic communication and adherence to protocols.",
+      "Potential_Concerns": "Risk of being too passive or accommodating in situations that require firm decisions.",
+      "Optimization_Strategies": "Strengthen decision-making skills and develop a more proactive approach to leadership."
+    },
+    "SCDI": {
+      "Summary": "Combines a systematic approach with charisma and a strong sense of duty, suitable for structured leadership that also requires interpersonal skills.",
+      "Potential_Concerns": "May face challenges in environments where flexibility and adaptability are required.",
+      "Optimization_Strategies": "Develop an adaptable leadership style that still respects the need for structure and protocol."
+    },
+    "SCID": {
+      "Summary": "Steady and compliant, with a touch of influence and dominance, making them reliable and approachable leaders.",
+      "Potential_Concerns": "May struggle with assertiveness or become overly reliant on established protocols.",
+      "Optimization_Strategies": "Encourage more dynamic and assertive decision-making practices to complement their natural reliability."
+    },
+    "SDCI": {
+      "Summary": "Dependable and methodical, with a flair for leadership and strict adherence to rules, ideal for managing structured teams that require careful oversight.",
+      "Potential_Concerns": "Risk of becoming too focused on procedures and losing sight of the bigger picture.",
+      "Optimization_Strategies": "Encourage strategic thinking and the exploration of innovative ideas within the bounds of compliance."
+    },
+    "SDIC": {
+      "Summary": "Stable and dynamic, with an influential personality and a knack for compliance, they effectively balance project management with team motivation.",
+      "Potential_Concerns": "May not adapt quickly to unforeseen changes, preferring to stick to known paths.",
+      "Optimization_Strategies": "Develop flexibility and adaptability to effectively respond to changing circumstances."
+    },
+    "SICD": {
+      "Summary": "Supportive and detailed, with the capability to lead decisively and maintain compliance, ideal for roles that require a nurturing yet structured approach.",
+      "Potential_Concerns": "Might struggle with decisiveness and rapid change.",
+      "Optimization_Strategies": "Strengthen leadership skills and embrace more dynamic decision-making processes."
+    },
+    "SIDC": {
+      "Summary": "Combines steadiness and influence with a strong sense of duty and leadership, making them effective in roles that require both team cohesion and a clear directive.",
+      "Potential_Concerns": "Risk of being overly cautious and not taking necessary risks to drive innovation.",
+      "Optimization_Strategies": "Encourage risk-taking and foster an innovative mindset to balance stability with growth."
+    }
+}
+  

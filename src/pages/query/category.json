@@ -1,0 +1,490 @@
+{
+    "D":{
+        "1":{
+            "Title":"Extremely Reserved",
+            "style":["Prefers following and supporting others' decisions.", "Avoids taking charge or confronting issues directly", "Values group harmony over personal leadership."],
+            "challenge":["May struggle to voice personal opinions", "Could miss leadership opportunities.", "Might not be seen as a potential leader."]
+        },
+        "2":{
+            "Title":"Cautiously Reflective",
+            "style":["Occasionally offers input but lacks assertiveness.", "Takes on roles when specifically asked rather than volunteering.", "Feels more comfortable in supportive positions."],
+            "challenge":["Hesitancy can limit influence in decisions.", "Reluctance to lead may hinder personal growth.", "Contributions may go unnoticed."]
+        },
+        "3":{
+            "Title":"Deliberate Decision Maker",
+            "style":["Willingly contributes but avoids leading roles.", "Prefers executing tasks to devising strategies.", "Rarely challenges the status quo."],
+            "challenge":["May not fully utilize leadership potential.", "Could be overlooked for promotions.", "Struggles with assertiveness."]
+        },
+        "4":{
+            "Title":"Analytical Thinker",
+            "style":["Begins to show initiative in familiar areas.", "Occasionally leads small projects or groups.", "Starts to express personal opinions more openly."],
+            "challenge":["Developing confidence in leadership abilities.", "Balancing initiative with team dynamics.", "Overcoming fear of failure."]
+        },
+        "5":{
+            "Title":"Patient Observer",
+            "style":["Leads when necessary, primarily in well-understood or limited scopes.", "Prefers leading by example rather than direct command.", "Values consensus but will make decisions if pushed."],
+            "challenge":["Leadership might lack visibility.", "Struggles with delegating tasks.", "Sometimes hesitates in decision-making."]
+        },
+        "6":{
+            "Title":"Quietly Determined",
+            "style":["Begins to assert more in discussions and team decisions.", "Shows a balanced approach to leadership and collaboration.", "More willing to take risks and lead in certain situations."],
+            "challenge":["Finding the right moments to assert leadership can be challenging.", "Balancing assertiveness with team cohesion requires careful navigation.", "Risk of inconsistency in leadership style as confidence grows."]
+        },
+        "7":{
+            "Title":"Methodically Active",
+            "style":["Takes initiative in proposing ideas and leading projects within their expertise.", "Demonstrates a growing confidence in directing others.", "Actively seeks feedback to improve leadership effectiveness."],
+            "challenge":["May face resistance from those unused to their emerging leadership.", "Learning to handle feedback constructively is crucial.", "Ensuring initiatives align with team goals and dynamics."]
+        },
+        "8":{
+            "Title":"Independently Motivated",
+            "style":["Begins organizing team efforts with assurance, taking more definitive leadership roles.", "Exhibits strong planning and coordination skills.", "Encourages team participation and values diverse input."],
+            "challenge":["Balancing leadership duties with personal task completion.", "Maintaining team morale and inclusivity under stress.", "Adapting leadership style to match team needs and project demands."]
+        },
+        "9":{
+            "Title":"Goal-Oriented Planner",
+            "style":["Makes decisions confidently, standing firm on convictions.", "Leads with a clear vision, persuading others to follow.", "Handles opposition with diplomacy and determination."],
+            "challenge":["Risk of alienating team members with overly assertive decisions.", "Navigating between decisiveness and flexibility.", "Managing stress associated with increased leadership responsibilities."]
+        },
+        "10":{
+            "Title":"Assertive Contributor",
+            "style":["Exhibits versatility in leadership, adapting style to suit the situation.", "Inspires and motivates teams towards common objectives.", "Proactively addresses challenges and conflicts with innovative solutions."],
+            "challenge":["Ensuring adaptability doesn't lead to perceived inconsistency.", "Keeping the team aligned and motivated through changes.", "Balancing innovation with practical execution."]
+        },
+        "11":{
+            "Title":"Challenge-Seeker",
+            "style":["Uses influence strategically to guide team and project direction.", "Anticipates challenges and prepares proactive solutions.", "Cultivates a culture of accountability and excellence."],
+            "challenge":["Avoiding over-reliance on strategic manipulation.", "Ensuring transparency in decision-making processes.", "Fostering an environment where all team members feel valued."]
+        },
+        "12":{
+            "Title":"Proactive Initiator",
+            "style":["Pioneers new approaches and strategies, leading by example.", "Challenges conventional thinking to inspire innovation.", "Builds strong alliances to support bold initiatives."],
+            "challenge":["Risk of isolation due to avant-garde leadership approach.", "Balancing innovation with achievable outcomes.", "Communicating new ideas effectively to ensure buy-in."]
+        },
+        "13":{
+            "Title":"Competitive Achiever",
+            "style":["Motivates with a compelling vision, driving teams to exceed expectations.", "Recognized for charismatic and persuasive leadership.", "Fosters an environment of growth and continuous improvement."],
+            "challenge":["Keeping the team focused and on track amidst high aspirations.", "Ensuring personal connections with team members.", "Balancing visionary leadership with operational realities."]
+        },
+        "14":{
+            "Title":"Direct Communicator",
+            "style":["Empowers individuals to take initiative and develop their leadership potential.", "Offers guidance and support, fostering a culture of mentorship.", "Celebrates team successes, attributing achievements to collective effort."],
+            "challenge":["", "", ""]
+        },
+        "15":{
+            "Title":"Forceful Advocate",
+            "style":["Sets and meets ambitious targets, leading with determination and focus.", "Utilizes resources efficiently to achieve objectives.", "Maintains high standards for performance and accountability."],
+            "challenge":["Managing the pressure of high expectations.", "Ensuring work-life balance for self and team.", "Delegating effectively to prevent burnout."]
+        },
+        "16":{
+            "Title":"Dynamic Leader",
+            "style":["Directs operations with authority, ensuring adherence to vision and goals.", "Decisive in action, commanding respect through leadership.", "Navigates organizational complexities with ease."],
+            "challenge":["Avoiding authoritarian tendencies in leadership.", "Maintaining approachability and open communication channels.", "Adapting to feedback and incorporating diverse perspectives."]
+        },
+        "17":{
+            "Title":"Results-Focused",
+            "style":["Crafts and communicates a clear, compelling future vision.", "Aligns team efforts with overarching strategic goals.", "Innovates and adapts strategies to navigate future challenges."],
+            "challenge":["Ensuring the vision is shared and embraced by all team members.", "Balancing long-term aspirations with short-term realities.", "Staying open to revising the vision based on new information or circumstances."]
+        },
+        "18":{
+            "Title":"Commanding Presence",
+            "style":["Drives significant change initiatives with confidence and clarity.", "Influences across and beyond the organization to garner support.", "Manages resistance and steers teams through transition periods."],
+            "challenge":["Communicating the value and necessity of change effectively.", "Maintaining momentum and morale during transitions.", "Ensuring changes are sustainable and integrated into the culture."]
+        },
+        "19":{
+            "Title":"High-Energy Driver",
+            "style":["Implements plans with unwavering resolve, ensuring successful outcomes.", "Prioritizes action and results, leading teams to deliver on commitments.", "Demonstrates resilience and determination in the face of obstacles."],
+            "challenge":["Flexibility in approach without compromising on goals.", "Managing team stress and workload during intensive projects.", "Keeping the team aligned and focused amidst challenges."]
+        },
+        "20":{
+            "Title":"Ambitious Visionary",
+            "style":["Operates with a global perspective, leading diverse teams across cultures.", "Embraces and leverages diversity for innovative solutions.", "Communicates effectively across cultural boundaries, fostering inclusivity."],
+            "challenge":["Navigating cultural nuances and ensuring inclusive leadership.", "Balancing global objectives with local team dynamics and needs.", "Building and maintaining trust in a diverse team environment."]
+        },
+        "21":{
+            "Title":"Authoritative Strategist",
+            "style":["Excels in negotiation, achieving favorable outcomes through strategic discussions.", "Balances firmness with empathy, understanding stakeholders' needs.", "Builds consensus and alignment on contentious issues."],
+            "challenge":["Keeping negotiations constructive and positive.", "Avoiding compromise on critical values or objectives.", "Building lasting agreements that satisfy all parties."]
+        },
+        "22":{
+            "Title":"Bold Innovator",
+            "style":["Recognized as a foundational pillar within the organization, embodying its values and mission.", "Provides stability and direction, particularly in times of uncertainty.", "Cultivates a legacy of leadership and integrity."],
+            "challenge":["Balancing organizational loyalty with adaptability and growth.", "Ensuring personal values align with evolving organizational culture.", "Mentoring successors to sustain the legacy."]
+        },
+        "23":{
+            "Title":"Dominant Influencer",
+            "style":["Architects and leads transformational initiatives, reshaping organizational landscapes.", "Inspires collective buy-in for a shared vision of change.", "Navigates through complexity to deliver innovative and lasting changes."],
+            "challenge":["Managing the scale and scope of transformational changes.", "Ensuring effective communication and engagement at all levels.", "Balancing innovation with practical implementation."]
+        },
+        "24":{
+            "Title":"Pure Dominator",
+            "style":["Exemplifies peak dominance, blending leadership, strategic insight, and influence to lead at the highest levels.", "Recognized for exceptional ability to drive vision, inspire action, and achieve significant impact.", "Commands respect and loyalty through a balance of strength, wisdom, and empathy."],
+            "challenge":["Maintaining humility and connectedness with roots and core values.", "Navigating the isolation that can accompany high-level leadership roles.", "Continuously evolving to meet the demands of leadership in a changing world."]
+        }
+    },
+    "I":{
+        "1":{
+            "Title":"Extremely Reserved",
+            "style":["Rarely initiates social interactions, preferring to observe rather than engage.", "Finds large group settings challenging and may struggle to voice opinions.", "Influences more effectively in one-on-one situations where comfort levels are higher."],
+            "challenge":["Overcoming social reticence to share ideas in group settings.", "Expanding influence beyond close-knit or familiar circles.", "Developing comfort with public speaking or more assertive communication."]
+        },
+        "2":{
+            "Title":"Listener Over Speaker",
+            "style":["Engages with others when necessary but remains reserved, choosing interactions carefully.", "Prefers known environments or smaller groups for socializing.", "Influence is gentle and often indirect, relying on established rapport."],
+            "challenge":["Broadening social networks without compromising personal comfort.", "Initiating conversations in unfamiliar settings.", "Being more assertive in presenting ideas to larger groups."]
+        },
+        "3":{
+            "Title":"Thoughtful Solitary",
+            "style":["Participates in social activities selectively, showing preference for meaningful engagement.", "Builds deeper connections rather than seeking widespread social networks.", "Influence grows through trust and depth of relationships rather than breadth."],
+            "challenge":["Balancing selectivity with opportunities for broader influence.", "Overcoming hesitation in new social settings.", "Expanding comfort zone to include larger or more diverse groups."]
+        },
+        "4":{
+            "Title":"Private Individual",
+            "style":["Begins to recognize the value of broader social interactions, taking steps to engage more openly.", "Shows potential for leadership in social settings, often through enthusiasm for shared interests.", "Influence starts to extend as confidence in social settings grows."],
+            "challenge":["Navigating the transition from reserved to more openly social behaviors.", "Developing skills for effective public communication.", "Managing the balance between personal authenticity and social adaptability."]
+        },
+        "5":{
+            "Title":"Reflective Introvert",
+            "style":["Known for a friendly demeanor that disarms and engages others.", "Uses persuasion subtly, often through positive reinforcement and encouragement.", "Builds influence by being approachable and supportive in interactions."],
+            "challenge":["Ensuring persuasion does not compromise sincerity.", "Expanding influence beyond immediate social circles.", "Leveraging friendliness effectively in more competitive settings."]
+        },
+        "6":{
+            "Title":"Calm Mediator",
+            "style":["Actively seeks to build and maintain a diverse network of contacts.", "Prefers collaborative efforts and shared successes to solitary achievements.", "Influence is exercised through coordination, bringing people together for common goals."],
+            "challenge":["Maintaining meaningful connections within a growing network.", "Balancing networking activities with deep relationship building.", "Ensuring collaborative projects align with personal and professional objectives."]
+        },
+        "7":{
+            "Title":"Friendly Supporter",
+            "style":["Engages audiences with dynamic and compelling communication.", "Skilled at adapting messages to resonate with different listeners.", "Influence is marked by the ability to inspire action and enthusiasm."],
+            "challenge":["Keeping communication authentic and personal at scale.", "Managing diverse audience expectations and reactions.", "Continuously refining messages to maintain engagement and impact."]
+        },
+        "8":{
+            "Title":"Social Participant",
+            "style":["Uses natural charisma to motivate and inspire others.", "Effective at rallying teams and individuals around shared visions.", "Influence stems from a combination of personal magnetism and positive messaging."],
+            "challenge":["Avoiding reliance solely on charisma for influence.", "Balancing motivational efforts with tangible outcomes.", "Ensuring inclusivity and diversity in motivational approaches."]
+        },
+        "9":{
+            "Title":"Enthusiastic Collaborator",
+            "style":["Leads through engagement, actively involving others in decision-making and projects.", "Recognized for the ability to create an inclusive and motivating environment.", "Influence is enhanced by fostering a sense of ownership and belonging among participants."],
+            "challenge":["Sustaining engagement and motivation over long-term projects.", "Balancing leadership with facilitating input and collaboration.", "Adapting leadership style to suit team dynamics and individual needs."]
+        },
+        "10":{
+            "Title":"Persuasive Communicator",
+            "style":["Captivates and inspires audiences with powerful speeches and presentations.", "Skilled at conveying messages that resonate deeply with listeners.", "Influence is achieved through emotional connection and articulation of compelling visions."],
+            "challenge":["Ensuring messages lead to action rather than just inspiration.", "Adapting speaking styles to suit various platforms and audiences.", "Maintaining authenticity while appealing to a broad audience base."]
+        },
+        "11":{
+            "Title":"Charismatic Connector",
+            "style":["Connects people with ideas, inspiring innovation and creative collaboration.", "Views social networks as platforms for change and progress.", "Influence is driven by a forward-thinking approach and the ability to see potential connections."],
+            "challenge":["Balancing visionary ideas with practical implementation.", "Nurturing connections that support long-term visionary goals.", "Communicating abstract concepts in accessible ways."]
+        },
+        "12":{
+            "Title":"Energetic Motivator",
+            "style":["Utilizes strategic thinking to extend influence beyond immediate circles.", "Crafts messages and initiatives that align with broader goals and visions.", "Influence is based on thoughtful planning and targeted communication efforts."],
+            "challenge":["Ensuring strategies remain flexible to adapt to changing circumstances.", "Measuring the impact of influence on long-term objectives.", "Balancing strategic goals with ethical considerations and personal values."]
+        },
+        "13":{
+            "Title":"Engaging Storyteller",
+            "style":["Focuses on creating and nurturing communities around shared interests or goals.", "Values the strength of collective action and mutual support.", "Influence is rooted in the ability to unite diverse individuals towards a common purpose."],
+            "challenge":["Managing and sustaining community engagement over time.", "Addressing diverse needs and expectations within the community.", "Fostering a sense of belonging and value for all members."]
+        },
+        "14":{
+            "Title":"Inspirational Leader",
+            "style":["Leverages empathy and understanding to persuade and influence.", "Skilled at connecting on a personal level, ensuring messages are tailored and relevant.", "Influence grows from a foundation of trust and genuine connection."],
+            "challenge":["Balancing empathy with the need to drive specific outcomes.", "Ensuring personal connections do not cloud objective decision-making.", "Managing emotional investment in persuasive efforts."]
+        },
+        "15":{
+            "Title":"Relationship Builder",
+            "style":["Uses social platforms and networks to introduce and spread innovative ideas.", "Combines influence with creativity to challenge norms and inspire change.", "Influence is amplified by a knack for making complex ideas accessible and engaging."],
+            "challenge":["Keeping content fresh and engaging in a fast-paced social landscape.", "Navigating the balance between innovation and audience readiness.", "Ensuring a consistent and authentic voice across various platforms."]
+        },
+        "16":{
+            "Title":"Vibrant Networker",
+            "style":["Prioritizes inclusivity in leadership, ensuring diverse voices are heard and valued.", "Builds influence on a foundation of respect, equality, and collaboration.", "Influence is sustained by commitment to fairness and open dialogue."],
+            "challenge":["Navigating diverse perspectives and finding common ground.", "Maintaining authority while promoting democratic participation.", "Ensuring inclusivity translates into effective action and outcomes."]
+        },
+        "17":{
+            "Title":"Dynamic Presenter",
+            "style":["Extends influence across borders, building global networks.", "Recognizes and leverages cultural diversity as a strength.", "Influence is marked by the ability to connect and collaborate internationally."],
+            "challenge":["Overcoming cultural and linguistic barriers to influence effectively.", "Sustaining meaningful connections across a global network.", "Adapting messaging to resonate across diverse cultural contexts."]
+        },
+        "18":{
+            "Title":"Charismatic Persuader",
+            "style":["Excels in negotiation, using influence to achieve win-win outcomes.", "Balances assertiveness with empathy, understanding stakeholders' needs.", "Influence is built on a reputation for fairness and strategic acumen."],
+            "challenge":["Keeping negotiations focused and productive under pressure.", "Balancing diverse interests to maintain positive relationships.", "Staying adaptable in rapidly changing negotiation dynamics."]
+        },
+        "19":{
+            "Title":"Infectious Enthusiast",
+            "style":["Drives significant change through influential leadership.", "Inspires others to embrace new ideas and approaches.", "Influence is characterized by visionary thinking and the ability to mobilize action."],
+            "challenge":["Managing resistance to change and transforming skepticism into support.", "Sustaining momentum and commitment through transformation processes.", "Balancing visionary leadership with practical implementation challenges."]
+        },
+        "20":{
+            "Title":"Master Influencer",
+            "style":["Wields influence to promote ethical practices and social responsibility.", "Recognized for integrity and commitment to doing what's right.", "Influence is used to advocate for causes and principles that benefit the wider community."],
+            "challenge":["Navigating ethical dilemmas and complex moral landscapes.", "Balancing ethical commitments with organizational or personal goals.", "Engaging and persuading others to prioritize ethical considerations."]
+        },
+        "21":{
+            "Title":"Magnetic Personality",
+            "style":["Acts as a bridge between cultures, using influence to foster understanding and collaboration.", "Embraces cultural diversity as a means to enrich interactions and outcomes.", "Influence is based on respect, curiosity, and the ability to communicate across differences."],
+            "challenge":["Overcoming stereotypes and cultural misconceptions.", "Building trust and credibility across cultural divides.", "Communicating effectively in multicultural environments."]
+        },
+        "22":{
+            "Title":"Ultimate Team Player",
+            "style":["Recognized as an authority in specific fields, influencing through expertise and insight.", "Shares knowledge generously, contributing to the advancement of the field.", "Influence is sustained by continuous learning and innovation."],
+            "challenge":["Keeping abreast of rapidly evolving knowledge and trends.", "Balancing thought leadership with commercial or practical objectives.", "Engaging diverse audiences with specialized content."]
+        },
+        "23":{
+            "Title":"Influence Champion",
+            "style":["Energizes and enthuses others with a charismatic and positive approach.", "Draws people in with a magnetic personality and a passion for shared goals.", "Influence is effective in motivating collective effort and enthusiasm."],
+            "challenge":["Ensuring enthusiasm is matched with action and results.", "Balancing charisma with substance to maintain credibility.", "Managing expectations and delivering on promises."]
+        },
+        "24":{
+            "Title":"Pure Influencer",
+            "style":["Leads the way in new methods of influence, pioneering approaches to leadership and communication.", "Challenges conventional wisdom, inspiring innovation in how influence is wielded.", "Influence is marked by a willingness to explore uncharted territories and inspire others to follow."],
+            "challenge":["Risk of alienation or misunderstanding in pioneering new approaches.", "Ensuring new methods of influence are ethical and constructive.", "Balancing innovation with the need for proven, effective strategies."]
+        }
+    },
+    "S":{
+        "1":{
+            "Title":"Highly Adaptable",
+            "style":["Thrives on change and variety, showing flexibility in most situations.", "Easily bored with routine, seeking out new experiences regularly.", "Comfortable with uncertainty, adapting quickly to new challenges."],
+            "challenge":["May struggle with long-term commitments or sustained projects.", "Finding balance between seeking novelty and maintaining consistency.", "Risk of overlooking details in favor of new pursuits."]
+        },
+        "2":{
+            "Title":"Flexible Contributor",
+            "style":["Values teamwork and adapts easily to team needs and changes.", "Shows a willingness to compromise and shift roles for team harmony.", "Prefers a dynamic working environment with varied tasks."],
+            "challenge":["Maintaining focus on individual tasks while adapting to team needs.", "Ensuring personal goals align with flexible role changes.", "Communicating needs and boundaries in constantly changing environments."]
+        },
+        "3":{
+            "Title":"Cooperative Team Member",
+            "style":["Begins to appreciate the value of stability in personal and professional life.", "Balances desire for change with understanding the need for consistency.", "Starts to build more structured routines while maintaining flexibility."],
+            "challenge":["Navigating the tension between craving novelty and valuing stability.", "Developing routines that allow for both consistency and flexibility.", "Adjusting to less variety in favor of predictable outcomes."]
+        },
+        "4":{
+            "Title":"Calm Under Pressure",
+            "style":["Demonstrates reliability in tasks and responsibilities, delivering consistent results.", "Values clear expectations and steady progress towards goals.", "Finds satisfaction in completing tasks efficiently and on time."],
+            "challenge":["Dealing with unexpected changes or disruptions to routine.", "Seeking opportunities for growth within a stable framework.", "Balancing efficiency with the need for creativity and innovation."]
+        },
+        "5":{
+            "Title":"Reliable Support",
+            "style":["Prioritizes team cohesion and support, ensuring a stable working environment.", "Acts as a mediator in conflicts, promoting understanding and compromise.", "Reliably contributes to team efforts, often putting team needs above personal preferences."],
+            "challenge":["Voicing personal opinions in a group setting without compromising harmony.", "Maintaining personal identity and goals within team dynamics.", "Navigating situations where team needs conflict with personal values."]
+        },
+        "6":{
+            "Title":"Patient Helper",
+            "style":["Excels in maintaining calm and order in stressful situations.", "Uses a thoughtful approach to problem-solving, avoiding rash decisions.", "Steadies the team during upheaval, providing a reassuring presence."],
+            "challenge":["Ensuring personal stress is managed while acting as the team's anchor.", "Balancing the mediator role with active participation in solutions.", "Avoiding burnout from constantly stabilizing team dynamics."]
+        },
+        "7":{
+            "Title":"Consistent Performer",
+            "style":["Known for consistent performance and dependability in work tasks.", "Sets a reliable pace for work, meeting expectations with regularity.", "Appreciates recognition for reliability and steady effort."],
+            "challenge":["Seeking personal development opportunities within consistent roles.", "Balancing consistency with the need for occasional risk-taking.", "Communicating the desire for growth beyond steady contributions."]
+        },
+        "8":{
+            "Title":"Gentle Guide",
+            "style":["Coordinates efforts with patience, ensuring all parts of a project align smoothly.", "Values long-term planning and careful execution over quick wins.", "Maintains a steady focus on goals, guiding projects with a calm hand."],
+            "challenge":["Keeping team members engaged and motivated over long projects.", "Adapting plans flexibly in response to new information or challenges.", "Ensuring coordination efforts are recognized and valued."]
+        },
+        "9":{
+            "Title":"Warm Encourager",
+            "style":["Strives for a harmonious work environment, valuing peace and cooperation.", "Avoids conflicts and seeks to understand all sides of an issue.", "Influences team culture positively, promoting mutual respect."],
+            "challenge":["Addressing necessary conflicts constructively without compromising harmony.", "Balancing the desire for peace with the need for honest, direct communication.", "Ensuring harmony does not lead to complacency or avoidance of difficult decisions."]
+        },
+        "10":{
+            "Title":"Empathetic Listener",
+            "style":["Applies a steady approach to innovation, making thoughtful, incremental changes.", "Balances the need for new ideas with the stability of proven methods.", "Encourages gradual, sustainable growth and improvement."],
+            "challenge":["Convincing others of the value of slow and steady innovation.", "Balancing traditional methods with the push for modernization.", "Keeping incremental changes aligned with overall strategic goals."]
+        },
+        "11":{
+            "Title":"Supportive Friend",
+            "style":["Acts as a dependable foundation for the team, known for unwavering loyalty.", "Supports team decisions and stands by commitments firmly.", "Values long-term relationships built on trust and reliability."],
+            "challenge":["Navigating changes in team or organizational direction while maintaining loyalty.", "Balancing personal convictions with loyalty to the team or company.", "Ensuring loyalty is reciprocated and valued by others."]
+        },
+        "12":{
+            "Title":"Loyal Ally",
+            "style":["Plans with mindfulness, considering the well-being of the team and the impact of decisions.", "Prefers methodical progress to hasty action, ensuring thoughtful outcomes.", "Values stability in planning, aiming for predictable and positive results."],
+            "challenge":["Adapting plans when unexpected changes occur.", "Balancing thorough planning with the need for timely decision-making.", "Communicating the rationale behind plans to those preferring more agile approaches."]
+        },
+        "13":{
+            "Title":"Peaceful Mediator",
+            "style":["Provides grounded, practical advice, drawing on experience and a steady temperament.", "Acts as a reliable consultant for decision-making processes.", "Influences through wisdom and a balanced perspective on issues."],
+            "challenge":["Staying relevant in rapidly changing environments.", "Ensuring advice is heeded in a culture that values quick results.", "Balancing conservative guidance with the need for innovation."]
+        },
+        "14":{
+            "Title":"Stable Force",
+            "style":["Willingly takes calculated risks when the potential for stable outcomes is high.", "Balances the pursuit of new opportunities with a keen sense of caution.", "Uses data and experience to guide decisions, minimizing unnecessary risks."],
+            "challenge":["Convincing others of the value of well-considered risks.", "Balancing caution with the need for occasional bold moves.", "Evaluating opportunities without succumbing to analysis paralysis."]
+        },
+        "15":{
+            "Title":"Trustworthy Partner",
+            "style":["Focuses on stabilizing relationships within the team, ensuring strong, supportive bonds.", "Uses emotional intelligence to navigate team dynamics carefully.", "Values deep, meaningful connections over superficial interactions."],
+            "challenge":["Maintaining personal boundaries while stabilizing relationships.", "Addressing relational issues without taking sides or creating dependencies.", "Ensuring efforts to stabilize relationships lead to genuine improvements."]
+        },
+        "16":{
+            "Title":"Harmony Seeker",
+            "style":["Implements solutions and projects with a pragmatic, realistic approach.", "Focuses on achievable outcomes, leveraging resources efficiently.", "Values practicality and utility in work, ensuring tangible results."],
+            "challenge":["Inspiring innovation within the framework of pragmatism.", "Balancing practical implementation with visionary goals.", "Communicating the value of pragmatic approaches to stakeholders seeking quick fixes."]
+        },
+        "17":{
+            "Title":"Dependable Leader",
+            "style":["Dedicates themselves to mastering specific areas, becoming a go-to expert.", "Relies on deep knowledge and steady application of skills.", "Influences through expertise, providing depth and stability in their specialty."],
+            "challenge":["Keeping skills and knowledge current in fast-evolving fields.", "Balancing deep specialization with the need for broader organizational awareness.", "Ensuring expertise is accessible and understandable to non-specialists."]
+        },
+        "18":{
+            "Title":"Composed Planner",
+            "style":["Seeks to optimize systems and processes for efficiency and stability.", "Applies a methodical approach to improvement, valuing sustained progress.", "Influence stems from creating reliable frameworks that enhance productivity."],
+            "challenge":["Encouraging adoption of new systems or optimized processes.", "Balancing the desire for optimization with the need for flexibility.", "Ensuring continuous improvement does not lead to rigidity."]
+        },
+        "19":{
+            "Title":"Resolute Stabilizer",
+            "style":["Leads with a tranquil, composed demeanor, instilling confidence and stability.", "Prioritizes the well-being and balance of the team, steering through challenges calmly.", "Influence is characterized by the ability to maintain serenity under pressure."],
+            "challenge":["Ensuring calm leadership is perceived as strong and decisive.", "Balancing tranquility with the need for dynamic action when necessary.", "Communicating effectively in high-stress situations to maintain team focus."]
+        },
+        "20":{
+            "Title":"Steadfast Advocate",
+            "style":["Acts as a mediator during conflicts, leveraging resilience and patience.", "Focuses on long-term resolutions that benefit team cohesion.", "Influence is built on fostering understanding and compromise."],
+            "challenge":["Maintaining neutrality and objectivity in conflict situations.", "Ensuring mediation leads to sustainable solutions, not temporary fixes.", "Balancing the emotional toll of conflict resolution with personal well-being."]
+        },
+        "21":{
+            "Title":"Unwavering Sustainer",
+            "style":["Works diligently to build consensus among diverse viewpoints.", "Values inclusivity and collective decision-making in achieving goals.", "Influence is exercised through diplomacy and the facilitation of open dialogue."],
+            "challenge":["Navigating situations where consensus is challenging to achieve.", "Balancing the pursuit of consensus with timely decision-making.", "Ensuring all voices are heard without compromising project momentum."]
+        },
+        "22":{
+            "Title":"Serene Influencer",
+            "style":["Advocates for stability in work and organizational culture.", "Resists unnecessary changes that may disrupt established harmony.", "Influence is rooted in promoting practices that ensure consistent performance."],
+            "challenge":["Adapting to necessary changes while advocating for stability.", "Balancing traditional approaches with the need for innovation.", "Communicating the value of stability in a fast-paced environment."]
+        },
+        "23":{
+            "Title":"Steadiness Protector",
+            "style":["Integrates diverse elements within the team, promoting a harmonious work environment.", "Values the synergy that comes from combining varied skills and perspectives.", "Influence is derived from creating a cohesive and collaborative atmosphere."],
+            "challenge":["Ensuring integration efforts appreciate and utilize individual strengths.", "Balancing harmony with the need for constructive conflict and debate.", "Fostering a sense of unity without stifling diversity and individuality."]
+        },
+        "24":{
+            "Title":"Pure Stabilizer",
+            "style":["Embodies the pinnacle of steadiness, providing unparalleled support and reliability.", "Known for a profound ability to maintain calm and consistency in all situations.", "Influence extends through a legacy of creating sustainable, balanced environments."],
+            "challenge":["Navigating leadership roles without compromising on core values of stability.", "Innovating within the framework of steadiness to stay relevant.", "Ensuring the quest for stability does not impede growth and development."]
+        }
+    },
+    "C":{
+        "1":{
+            "Title":"Spontaneously Impulsive",
+            "style":["Makes decisions based on immediate feelings or reactions without much deliberation.", "Struggles with planning and prefers spontaneous action over structured approaches.", "Often overlooks details in favor of quick results."],
+            "challenge":["Risk of making hasty decisions without considering all outcomes.", "Difficulty in maintaining consistency and reliability in tasks.", "Overcoming the tendency to neglect details that might be crucial for success."]
+        },
+        "2":{
+            "Title":"Flexibly Unstructured",
+            "style":["Adapts quickly to new information, but may lack thoroughness in decision-making.", "Values flexibility and openness over rigid adherence to rules or plans.", "Often changes opinions or approaches based on the most recent information."],
+            "challenge":["Balancing flexibility with the need for thorough analysis and consistency.", "Ensuring decisions are well-informed and not just based on immediate preferences.", "Developing a structured approach to tasks that still allows for adaptability."]
+        },
+        "3":{
+            "Title":"Independently Minded",
+            "style":["Prefers a loose structure in work and personal life, resisting overly detailed plans.", "Manages responsibilities in a relaxed manner, which can sometimes lead to oversight.", "Finds a balance between planning and spontaneity, though may lean towards the latter."],
+            "challenge":["Risk of underestimating the importance of planning and organization in achieving goals.", "Potentially overlooking details that could impact task or project outcomes.", "Finding the right balance between being organized and maintaining flexibility."]
+        },
+        "4":{
+            "Title":"Curious Explorer",
+            "style":["Begins to see the value of planning but still appreciates spontaneity.", "Attempts to organize tasks and time more effectively, though not always consistently.", "Starts to appreciate the benefits of a more structured approach to tasks and goals."],
+            "challenge":["Developing consistent planning habits without sacrificing adaptability.", "Overcoming resistance to fully structured approaches and detailed planning.", "Balancing newfound organizational efforts with natural inclinations towards spontaneity."]
+        },
+        "5":{
+            "Title":"Prudent Observer",
+            "style":["Pays more attention to details, recognizing their importance in task completion.", "Starts to implement systems or checklists to manage tasks more effectively.", "Appreciates the clarity and accountability that come from a more meticulous approach."],
+            "challenge":["Avoiding becoming bogged down by focusing too much on minor details.", "Ensuring that attention to detail doesn't hinder overall progress or creativity.", "Balancing detail-oriented tasks with higher-level strategic thinking."]
+        },
+        "6":{
+            "Title":"Careful Planner",
+            "style":["Adopts a systematic approach to tasks, valuing order and predictability.", "Prefers working within clear guidelines and structured environments.", "Relies on established systems to ensure accuracy and efficiency in work."],
+            "challenge":["Adapting to environments or situations that require more flexibility.", "Avoiding rigidity in thinking and approach to allow for creative solutions.", "Ensuring systems and structures do not become obstacles to innovation."]
+        },
+        "7":{
+            "Title":"Detail-Oriented",
+            "style":["Known for reliability in executing tasks with precision and consistency.", "Values trustworthiness and meets deadlines and expectations regularly.", "Uses a conscientious approach to ensure work is completed to the highest standard."],
+            "challenge":["Managing workload effectively to avoid burnout.", "Remaining open to new methods and ideas that could improve efficiency.", "Balancing perfectionism with the practical need to complete tasks in a timely manner."]
+        },
+        "8":{
+            "Title":"Organized Worker",
+            "style":["Excels in planning and organizing, both in thought and execution.", "Anticipates needs and prepares accordingly, avoiding last-minute pressures.", "Influence stems from the ability to foresee and mitigate potential issues through careful planning."],
+            "challenge":["Keeping plans flexible enough to accommodate unexpected changes or opportunities.", "Avoiding stress from striving for excessive control over outcomes.", "Encouraging a collaborative approach to planning, incorporating diverse perspectives."]
+        },
+        "9":{
+            "Title":"Systematic Thinker",
+            "style":["Applies critical thinking and analysis to solve problems and make decisions.", "Prefers data-driven decision-making, valuing facts over intuition.", "Influence is built on a reputation for thoroughness and insightful analysis."],
+            "challenge":["Ensuring analysis leads to action rather than paralysis by over-analysis.", "Balancing detailed analysis with the need for timely decision-making.", "Communicating complex analytical findings in an accessible way to non-experts."]
+        },
+        "10":{
+            "Title":"Quality Controller",
+            "style":["Champions high standards and quality in all aspects of work.", "Not satisfied with mediocrity, pushing for improvements and excellence.", "Influence is derived from setting and upholding high-quality benchmarks."],
+            "challenge":["Avoiding frustration when outcomes do not meet high standards.", "Balancing the pursuit of quality with realistic constraints and deadlines.", "Encouraging a culture of quality without creating a fear of failure."]
+        },
+        "11":{
+            "Title":"Precise Analyst",
+            "style":["Seeks to optimize processes and tasks for maximum efficiency.", "Values time management and productivity, constantly looking for ways to improve.", "Influence comes from demonstrating and sharing effective efficiency strategies."],
+            "challenge":["Ensuring that the pursuit of efficiency does not compromise quality or well-being.", "Staying flexible in the face of efficiency measures that may not always produce expected outcomes.", "Encouraging team adoption of new efficiency practices in a supportive manner."]
+        },
+        "12":{
+            "Title":"Diligent Inspector",
+            "style":["Innovates within established processes to improve outcomes and efficiencies.", "Balances respect for existing structures with a drive for continuous improvement.", "Influence is evident in the successful implementation of process enhancements."],
+            "challenge":["Navigating resistance to change from those accustomed to existing processes.", "Balancing innovation with the need for stability and predictability in processes.", "Measuring and communicating the impact of process innovations effectively."]
+        },
+        "13":{
+            "Title":"Methodical Organizer",
+            "style":["Utilizes strategic thinking to organize and prioritize tasks and objectives.", "Anticipates long-term needs and plans accordingly, setting stages for future success.", "Influence stems from the ability to align organizational efforts with strategic goals."],
+            "challenge":["Keeping strategies adaptable to changing circumstances and new information.", "Ensuring strategic plans are actionable and grounded in current realities.", "Engaging and motivating others to align with and execute strategic plans."]
+        },
+        "14":{
+            "Title":"Strategic Developer",
+            "style":["Vigilant about adherence to rules, regulations, and standards.", "Sees the value in established guidelines for maintaining order and quality.", "Influence is based on a commitment to upholding standards and ethical practices."],
+            "challenge":["Balancing strict compliance with the need for flexibility and creativity.", "Avoiding becoming overly focused on rules at the expense of larger objectives.", "Encouraging a positive view of compliance as a tool for improvement rather than a constraint."]
+        },
+        "15":{
+            "Title":"Rule-Follower",
+            "style":["Approaches tasks and problems with meticulous attention to detail.", "Relies on analytical skills to dissect complex information and identify key insights.", "Influence is built on a reputation for accuracy and thorough analysis."],
+            "challenge":["Avoiding getting lost in details to the detriment of the bigger picture.", "Communicating detailed analysis in a clear, understandable manner to others.", "Balancing thoroughness with the need for efficient, timely decision-making."]
+        },
+        "16":{
+            "Title":"Accuracy Enthusiast",
+            "style":["Implements projects and tasks with a structured, methodical approach.", "Prefers environments where clear parameters and expectations are set.", "Influence comes from consistently delivering reliable and structured outcomes."],
+            "challenge":["Adapting to situations that demand deviation from the planned structure.", "Encouraging innovation within a structured framework.", "Avoiding rigidity in methods to remain responsive to new challenges and opportunities."]
+        },
+        "17":{
+            "Title":"Compliance Guardian",
+            "style":["Ensures accuracy and compliance through diligent auditing and oversight.", "Focuses on safeguarding standards and protocols, minimizing risk.", "Influence stems from a dedication to integrity and thoroughness in review processes."],
+            "challenge":["Balancing the need for detailed audits with operational efficiency.", "Managing the stress associated with high-stakes oversight responsibilities.", "Fostering positive perceptions of auditing as constructive rather than punitive."]
+        },
+        "18":{
+            "Title":"Perfectionist",
+            "style":["Specializes in tasks that require high levels of precision and expertise.", "Known for exacting standards and an uncompromising approach to accuracy.", "Influence is derived from specialized knowledge and the ability to execute with precision."],
+            "challenge":["Maintaining flexibility and openness to new methods within precise disciplines.", "Ensuring that perfectionism does not hinder progress or collaboration.", "Sharing specialized knowledge in an accessible way to foster broader understanding."]
+        },
+        "19":{
+            "Title":"Critical Evaluator",
+            "style":["Approaches problem-solving with rigor, ensuring comprehensive solutions.", "Prefers systematic analysis and evidence-based conclusions.", "Influence grows from solving complex problems with thorough and reasoned approaches."],
+            "challenge":["Ensuring rigorous approaches do not slow down necessary decision-making.", "Communicating complex solutions in a way that is actionable and understandable.", "Balancing detailed problem-solving with broader strategic objectives."]
+        },
+        "20":{
+            "Title":"Process Optimizer",
+            "style":["Upholds high ethical standards in all actions and decisions.", "Advocates for integrity and transparency, influencing through moral leadership.", "Values ethical considerations as central to decision-making processes."],
+            "challenge":["Navigating ethical dilemmas and grey areas with clarity and fairness.", "Balancing ethical ideals with practical business or organizational needs.", "Inspiring others to prioritize ethics in a competitive or results-focused environment."]
+        },
+        "21":{
+            "Title":"Technical Specialist",
+            "style":["Finds innovative ways to enhance or streamline standard procedures.", "Balances innovation with the need for procedural consistency and reliability.", "Influence is achieved by improving processes in ways that respect existing frameworks."],
+            "challenge":["Encouraging adoption of procedural changes within established systems.", "Balancing the drive for innovation with the necessity of procedural integrity.", "Measuring and communicating the impact of procedural innovations."]
+        },
+        "22":{
+            "Title":"Expert Analyst",
+            "style":["Applies disciplined thinking and strategic planning to achieve long-term objectives.", "Values the role of careful planning and execution in realizing strategic visions.", "Influence stems from the ability to align detailed planning with overarching goals."],
+            "challenge":["Adapting strategic plans in response to changing conditions without losing focus.", "Ensuring strategic initiatives remain aligned with current realities and capabilities.", "Communicating and rallying support for long-term strategies in a fast-paced environment."]
+        },
+        "23":{
+            "Title":"Conscientiousness Champion",
+            "style":["Leads with an emphasis on detail, ensuring all aspects of a project are considered.", "Balances leadership responsibilities with a hands-on approach to details.", "Influence is based on a combination of strategic oversight and attention to detail."],
+            "challenge":["Delegating effectively while maintaining a focus on details.", "Balancing detail-oriented leadership with empowering team members.", "Avoiding micromanagement in pursuit of detail-oriented outcomes."]
+        },
+        "24":{
+            "Title":"Pure Conscientiousness",
+            "style":["Embodies the highest level of conscientiousness, demonstrating exceptional dedication to precision, planning, and ethical standards.", "Known for meticulous attention to detail and unwavering commitment to quality and integrity.", "Influence extends through leading by example, inspiring others to adopt conscientious practices in their work and decision-making."],
+            "challenge":["Ensuring high standards do not lead to inflexibility or inhibit creativity.", "Balancing the pursuit of perfection with timely and effective execution.", "Fostering an environment where conscientiousness enhances rather than hinders innovation and adaptability."]
+        }
+    }
+}

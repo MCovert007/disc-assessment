@@ -1,0 +1,352 @@
+[
+    {
+        "question": "When faced with a challenge:",
+        "D": "I take charge and act decisively.",
+        "I": "I use my charm and enthusiasm to navigate the situation.",
+        "S": "I seek harmony and consensus before acting.",
+        "C": "I analyze all options to find the most logical solution."
+    },
+    {
+        "question": "In a team project:",
+        "D": "I naturally step into the leadership role to ensure goals are met.",
+        "I": "I focus on motivating the team and keeping spirits high.",
+        "S": "I ensure everyone is working well together and feels supported.",
+        "C": "I meticulously organize tasks and responsibilities."
+    },
+    {
+        "question": "When making decisions:",
+        "D": "I make quick, confident choices to maintain momentum.",
+        "I": "I consider how my decisions will impact team morale.",
+        "S": "I weigh how my decisions affect team harmony and stability.",
+        "C": "I rely on data and thorough analysis to guide my choices."
+    },
+    {
+        "question": "At work, I value:",
+        "D": "Achieving results and taking on challenges.",
+        "I": "Building relationships and inspiring others.",
+        "S": "Creating a supportive and collaborative environment.",
+        "C": "Precision, efficiency, and adherence to standards."
+    },
+    {
+        "question": "When learning new things:",
+        "D": "I prefer to jump in and learn through direct experience.",
+        "I": "I enjoy interactive and engaging learning experiences.",
+        "S": "I appreciate a steady pace and clear instructions.",
+        "C": "I seek out detailed information and comprehensive understanding."
+    },
+    {
+        "question": "In meetings, I tend to:",
+        "D": "Direct the discussion and outline action plans.",
+        "I": "Encourage participation and inject enthusiasm.",
+        "S": "Listen attentively and foster agreement.",
+        "C": "Focus on facts and ensure decisions are well-informed."
+    },
+    {
+        "question": "Facing a tight deadline, I:",
+        "D": "Prioritize tasks and push the team to meet the deadline.",
+        "I": "Keep the mood light to reduce stress while focusing on the goal.",
+        "S": "Make sure the team feels balanced and not overwhelmed.",
+        "C": "Organize the workload efficiently to ensure nothing is missed."
+    },
+    {
+        "question": "My approach to problem-solving is:",
+        "D": "Tackling issues head-on with confidence.",
+        "I": "Looking for creative and innovative solutions.",
+        "S": "Ensuring solutions are considerate of all team members.",
+        "C": "Relying on data and detailed analysis to solve the problem."
+    },
+    {
+        "question": "When I receive feedback:",
+        "D": "I focus on how it can help me achieve my goals.",
+        "I": "I value how it will help me improve my relationships.",
+        "S": "I consider how it affects my role within the team.",
+        "C": "I analyze it for accuracy and how I can apply it practically."
+    },
+    {
+        "question": "My ideal work environment is one that:",
+        "D": "Presents constant challenges and opportunities for growth.",
+        "I": "Is vibrant, social, and full of energy.",
+        "S": "Is stable, supportive, and fosters teamwork.",
+        "C": "Is structured, organized, and focuses on quality."
+    },
+    {
+        "question": "When presented with a new opportunity:",
+        "D": "I evaluate its potential for leadership and impact.",
+        "I": "I look forward to the social interactions it will bring.",
+        "S": "I consider how it will affect team cohesion and stability.",
+        "C": "I delve into the details to understand its implications fully."
+    },
+    {
+        "question": "In conflict situations:",
+        "D": "I assert my views to steer towards a resolution.",
+        "I": "I use my communication skills to mediate and find a middle ground.",
+        "S": "I aim for a peaceful resolution that satisfies everyone.",
+        "C": "I rely on facts and logic to argue my point."
+    },
+    {
+        "question": "Managing my workload involves:",
+        "D": "Setting ambitious targets and prioritizing tasks that have the most impact.",
+        "I": "Creating an enjoyable process, often multitasking to keep things interesting.",
+        "S": "Developing a balanced schedule that allows for steady progress.",
+        "C": "Organizing tasks meticulously to ensure accuracy and efficiency."
+    },
+    {
+        "question": "In leadership roles, I:",
+        "D": "Focus on driving results and overcoming obstacles.",
+        "I": "Inspire and motivate my team with enthusiasm.",
+        "S": "Provide support and ensure a harmonious work environment.",
+        "C": "Implement systems and processes for optimal performance."
+    },
+    {
+        "question": "When contributing to a team:",
+        "D": "I take the initiative and lead by example.",
+        "I": "I energize the group and encourage creativity.",
+        "S": "I offer consistent support and promote teamwork.",
+        "C": "I ensure that our work is precise and well-organized."
+    },
+    {
+        "question": "My approach to change is:",
+        "D": "To see it as an opportunity for growth and new challenges.",
+        "I": "To embrace it with optimism and adaptability.",
+        "S": "To proceed with caution, ensuring it benefits the team.",
+        "C": "To analyze its implications thoroughly before moving forward."
+    },
+    {
+        "question": "In planning for the future, I:",
+        "D": "Set ambitious goals and strategize on how to achieve them.",
+        "I": "Envision exciting possibilities and opportunities for growth.",
+        "S": "Focus on creating stability and security for myself and others.",
+        "C": "Rely on detailed research and planning to make informed decisions."
+    },
+    {
+        "question": "My typical role in group projects is:",
+        "D": "The leader, guiding the team towards our objectives.",
+        "I": "The motivator, keeping the team engaged and morale high.",
+        "S": "The mediator, ensuring smooth collaboration and support.",
+        "C": "The organizer, managing details and keeping the project on track."
+    },
+    {
+        "question": "When dealing with data and information:",
+        "D": "I quickly grasp the big picture and decide on a course of action.",
+        "I": "I look for key insights that can improve team dynamics and relationships.",
+        "S": "I ensure the information is used in a way that supports team goals.",
+        "C": "I focus on analyzing the data meticulously to draw accurate conclusions."
+    },
+    {
+        "question": "My preferred way to learn new skills is:",
+        "D": "Through challenging myself with new tasks and responsibilities.",
+        "I": "In interactive and social settings that keep the learning process fun.",
+        "S": "In a structured and supportive environment that allows for gradual progress.",
+        "C": "Through detailed study and application of the new knowledge in practice."
+    },
+    {
+        "question": "When prioritizing tasks, I:",
+        "D": "Focus on what will have the biggest impact on my goals.",
+        "I": "Choose tasks that allow for the most interaction with others.",
+        "S": "Prioritize tasks that ensure stability and harmony within the team.",
+        "C": "Opt for tasks that require attention to detail and thoroughness."
+    },
+    {
+        "question": "My approach to networking is:",
+        "D": "To actively seek out influential individuals who can help me achieve my objectives.",
+        "I": "To make genuine connections, focusing on mutual interests and vibrant conversations.",
+        "S": "To build long-lasting relationships based on trust and support.",
+        "C": "To connect with those who I can share detailed knowledge and insights with."
+    },
+    {
+        "question": "When giving feedback, I:",
+        "D": "Am direct and focused on how improvements can lead to better results.",
+        "I": "Ensure my feedback is positive and encourages further engagement.",
+        "S": "Give feedback gently, aiming to support and not demoralize.",
+        "C": "Provide detailed feedback with specific examples and actionable advice."
+    },
+    {
+        "question": "In a crisis, I:",
+        "D": "Quickly take control of the situation and direct others on what to do.",
+        "I": "Use my optimism and communication skills to keep morale high.",
+        "S": "Maintain calm, offering steady support to those affected.",
+        "C": "Analyze the situation carefully to devise a logical solution."
+    },
+    {
+        "question": "When working on a project, I am most likely to:",
+        "D": "Set ambitious deadlines and push the team to meet them.",
+        "I": "Create a lively and dynamic project environment.",
+        "S": "Ensure everyone's workload is manageable and fair.",
+        "C": "Keep track of all the details and ensure nothing is overlooked."
+    },
+    {
+        "question": "My work ethic is best described as:",
+        "D": "Results-driven, always seeking to achieve and excel.",
+        "I": "Dynamic, thriving on interaction and positive energy.",
+        "S": "Dependable, providing consistent and steady contributions.",
+        "C": "Thorough, with a strong focus on accuracy and detail."
+    },
+    {
+        "question": "My reaction to constructive criticism is:",
+        "D": "To see it as an opportunity to improve and achieve more.",
+        "I": "To appreciate the feedback and use it to enhance my relationships.",
+        "S": "To take it to heart, ensuring it strengthens my role within the team.",
+        "C": "To analyze it for validity and apply it meticulously to my work."
+    },
+    {
+        "question": "My work desk is usually:",
+        "D": "Organized in a way that allows me to quickly decide and act on tasks.",
+        "I": "Vibrant and personalized, reflecting my dynamic personality.",
+        "S": "Neat and comfortable, creating a stable work environment.",
+        "C": "Highly organized, with everything in its right place for efficiency."
+    },
+    {
+        "question": "I feel most accomplished when:",
+        "D": "I achieve a challenging goal or overcome a significant obstacle.",
+        "I": "I can inspire or positively influence those around me.",
+        "S": "I contribute to creating a harmonious and supportive team atmosphere.",
+        "C": "My work is recognized for its thoroughness and attention to detail."
+    },
+    {
+        "question": "My approach to team conflicts is:",
+        "D": "To address them head-on to find a resolution that pushes us forward.",
+        "I": "To mediate with a focus on maintaining positive relations.",
+        "S": "To ensure the conflict is resolved in a way that preserves team unity.",
+        "C": "To analyze the root cause and offer a logical solution."
+    },
+    {
+        "question": "The type of tasks I prefer are:",
+        "D": "Those that challenge me and have a clear impact on success.",
+        "I": "Tasks that involve interaction with others and building connections.",
+        "S": "Tasks that contribute to the team's well-being and stability.",
+        "C": "Tasks that require accuracy, analysis, and a methodical approach."
+    },
+    {
+        "question": "When starting a new project, I:",
+        "D": "Quickly establish goals and start taking action.",
+        "I": "Look for ways to make the process enjoyable for everyone involved.",
+        "S": "Ensure the team feels comfortable and clear about their roles.",
+        "C": "Begin with detailed research and planning to set a solid foundation."
+    },
+    {
+        "question": "My approach to handling deadlines is:",
+        "D": "To prioritize tasks and focus on efficiency to meet the deadline head-on.",
+        "I": "To maintain a positive attitude and keep the team motivated throughout.",
+        "S": "To manage stress and ensure a balanced workload for myself and the team.",
+        "C": "To organize my schedule meticulously to ensure everything is completed on time."
+    },
+    {
+        "question": "In meetings, my usual role is:",
+        "D": "The one steering the discussion towards actionable outcomes.",
+        "I": "The one keeping the atmosphere light and encouraging participation.",
+        "S": "The one ensuring everyone's viewpoints are considered and harmonized.",
+        "C": "The one focusing on the details and accuracy of the information presented."
+    },
+    {
+        "question": "My ideal role in a team involves:",
+        "D": "Leading the charge and setting the direction.",
+        "I": "Energizing the team and facilitating connections.",
+        "S": "Providing support and ensuring team cohesion.",
+        "C": "Handling tasks that require precision and expert knowledge."
+    },
+    {
+        "question": "When facing obstacles, I:",
+        "D": "Tackle them head-on with determination to overcome.",
+        "I": "Look for creative and optimistic solutions to the problem.",
+        "S": "Seek support and consensus on the best way to move forward.",
+        "C": "Analyze the situation thoroughly to find the most logical solution."
+    },
+    {
+        "question": "My work habits are characterized by:",
+        "D": "A focus on productivity and achieving results quickly.",
+        "I": "Flexibility and a preference for a dynamic work environment.",
+        "S": "Consistency and a methodical approach to tasks.",
+        "C": "Attention to detail and a preference for structured processes."
+    },
+    {
+        "question": "When giving presentations, I:",
+        "D": "Aim to persuade and drive action from the audience.",
+        "I": "Focus on engaging and energizing the audience.",
+        "S": "Strive to make everyone feel included and considered.",
+        "C": "Rely on facts, data, and thorough analysis to inform the audience."
+    },
+    {
+        "question": "In terms of workplace changes, I:",
+        "D": "See them as opportunities for growth and improvement.",
+        "I": "Adapt easily and look for the positive aspects of the change.",
+        "S": "Prefer gradual changes that allow for adjustment and stability.",
+        "C": "Need to understand the reasons behind changes to fully support them."
+    },
+    {
+        "question": "My approach to innovation is:",
+        "D": "To lead and encourage the pursuit of new ideas aggressively.",
+        "I": "To inspire creativity and foster an environment where ideas flourish.",
+        "S": "To support and integrate new ideas in a way that maintains team harmony.",
+        "C": "To critically evaluate and refine ideas for practical implementation."
+    },
+    {
+        "question": "My preference for team activities is:",
+        "D": "Activities that challenge the team and promote competition.",
+        "I": "Activities that are fun, engaging, and enhance team bonding.",
+        "S": "Activities that build trust and strengthen team support systems.",
+        "C": "Activities that are well-organized and have clear objectives."
+    },
+    {
+        "question": "When I'm part of a team, I prefer tasks that:",
+        "D": "Challenge me to lead and solve complex problems.",
+        "I": "Allow me to interact with team members and build relationships.",
+        "S": "Enable me to provide support and ensure team harmony.",
+        "C": "Require me to focus on details and ensure the quality of our work."
+    },
+    {
+        "question": "My approach to learning new skills is:",
+        "D": "Focused on quickly mastering skills that will lead to achieving my goals.",
+        "I": "Interactive and social, preferring to learn in a group setting.",
+        "S": "Steady and gradual, allowing me time to fully understand the new skill.",
+        "C": "Detailed and methodical, ensuring I understand all aspects thoroughly."
+    },
+    {
+        "question": "When dealing with data and reports, I:",
+        "D": "Look for key insights that can inform strategic decisions.",
+        "I": "Focus on how the information can improve team dynamics or customer relations.",
+        "S": "Consider how the data can help maintain stability and predictability.",
+        "C": "Dive into the details to ensure accuracy and comprehensive analysis."
+    },
+    {
+        "question": "My preferred way to resolve disputes is:",
+        "D": "By taking a direct approach and seeking a fast resolution.",
+        "I": "Through open dialogue, aiming to maintain positive relationships.",
+        "S": "By finding a compromise that respects everyone’s perspectives.",
+        "C": "With a logical analysis of the facts to reach a fair conclusion."
+    },
+    {
+        "question": "During team projects, I often find myself:",
+        "D": "Setting the pace and ensuring the team stays on track.",
+        "I": "Keeping the team engaged and boosting morale.",
+        "S": "Ensuring everyone is working well together and feels supported.",
+        "C": "Paying attention to the details and maintaining high standards."
+    },
+    {
+        "question": "My reaction to feedback is:",
+        "D": "To use it as a tool for improvement and to achieve better results.",
+        "I": "To appreciate how it can help me connect better with others.",
+        "S": "To consider its impact on my role within the team.",
+        "C": "To analyze it critically and apply it to enhance my work."
+    },
+    {
+        "question": "When managing tasks, I prioritize:",
+        "D": "Those that have the most significant impact on our goals.",
+        "I": "Tasks that involve collaboration and team interaction.",
+        "S": "Tasks that contribute to a stable and harmonious work environment.",
+        "C": "Tasks that require accuracy and a detailed approach."
+    },
+    {
+        "question": "In a leadership role, I:",
+        "D": "Drive the team towards achieving ambitious targets.",
+        "I": "Inspire and motivate the team with my energy and enthusiasm.",
+        "S": "Focus on creating a supportive and understanding atmosphere.",
+        "C": "Ensure that all plans are executed with precision and efficiency."
+    },
+    {
+        "question": "My approach to dealing with change is:",
+        "D": "To see it as an opportunity for new achievements and growth.",
+        "I": "To embrace it with optimism and adaptability.",
+        "S": "To ensure it's managed in a way that maintains team stability.",
+        "C": "To analyze the implications and plan accordingly."
+    }
+]
